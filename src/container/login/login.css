@@ -1,0 +1,11 @@
+.login-container {
+    background-image: url("./bg.jpg")!important;
+    background-size:cover;
+}
+
+.am-input-extra {
+    max-height: 30px!important;
+}
+.input-container {
+    opacity: 0.4;
+}
