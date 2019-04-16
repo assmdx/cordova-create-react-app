@@ -19,6 +19,8 @@ cordova-react-example包含以下组件
 - cordova-plugin-splashscreen（设置app启动画面的插件）
 
 ## 调试
+```git clone https://github.com/assmdx/cordova-create-react-app.git ```
+``` cd cordova-create-react-app ```
 
 ```npm run start ```
 
