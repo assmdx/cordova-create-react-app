@@ -20,7 +20,8 @@ cordova-react-example包含以下组件
 
 ## 调试
 ```git clone https://github.com/assmdx/cordova-create-react-app.git ```
-``` cd cordova-create-react-app ```
+
+```cd cordova-create-react-app ```
 
 ```npm run start ```
 
